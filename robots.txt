@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://liquitax.github.io/sitemap.html.gz
+Sitemap: https://liquitax.github.io/app/sitemap.html.gz
+Sitemap: https://liquitax.github.io/assets/sitemap.html.gz
+Sitemap: https://liquitax.github.io/css/sitemap.html.gz
+Sitemap: https://liquitax.github.io/includes/sitemap.html.gz
+Sitemap: https://liquitax.github.io/item/sitemap.html.gz
+Sitemap: https://liquitax.github.io/src/sitemap.html.gz
